@@ -124,7 +124,6 @@ a {
     margin-left: -2px;
     border-radius: 100px;
     top: 0px;
-    z-index: 9;
 }
 
 .bottom_part .part_context .sec_context {}
@@ -133,9 +132,111 @@ a {
 
 .project_container {
     position: relative;
-    font-family: "Muli", Tahoma;
+    font-family: "Muli", "B Roya", Tahoma;
     margin: 20px 0px;
     padding: 10px 0px;
+}
+
+.projects .sec_context .project_container:first-child .project_images {
+    margin-top: 0px !important;
+}
+
+.projects .project_images {
+    margin-top: 60px;
+    background-color: #000;
+    display: flex;
+    flex-direction: column;
+    border-bottom: 6px solid #a8594f;
+}
+
+.project_images .image_view {
+    position: relative;
+    height: 225px;
+	background-size: contain;
+	background-position: 50%;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.project_images .image_view video {
+    height: 100%;
+}
+
+.project_images .image_view .full_screen {
+    position: absolute;
+    right: 30px;
+    top: 34px;
+    width: 26px;
+    height: 26px;
+    padding: 8px;
+    background-image: url('../content/fullscreen.png');
+    background-size: 100%;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+
+.project_images .image_view .scale_down {
+    position: absolute;
+    right: 30px;
+    top: 34px;
+    width: 26px;
+    height: 26px;
+    padding: 8px;
+    background-image: url('../content/close.png');
+    background-size: 100%;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+
+.project_images .image_view .open {
+    position: absolute;
+    right: 30px;
+    top: 70px;
+    width: 26px;
+    height: 26px;
+    padding: 8px;
+    background-image: url('../content/open.png');
+    background-size: 100%;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+
+.project_images .image_view .open:hover {
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+.project_images .image_view .full_screen:hover {
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+.project_images .image_view .scale_down:hover {
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+.project_images .image_list {
+	display: flex;
+    width: auto;
+    margin: auto 0;
+    align-self: center;
+}
+
+.project_images .image_list img {
+    width: 50px;
+    height: 50px;
+    border: 2px solid #2f2f2f;
+    padding: 2px;
+    margin-left: 10px;
+    margin-top: 8px;
+    margin-bottom: 4px;
+    cursor: pointer;
+    user-select: none;
+    object-fit: cover;
+}
+
+.project_images .image_list img.selected {
+	border: 2px solid #a8594f;
 }
 
 .project_sides {
@@ -146,7 +247,9 @@ a {
 
 .project_side_one {}
 
-.project_side_two {}
+.project_side_two {
+    position: relative;
+}
 
 .float_left {
     float: left;
@@ -242,9 +345,9 @@ a {
     height: 18px;
     border-radius: 100px;
     position: absolute;
-    left: 50%;
+    right: -10px;
     z-index: 10;
-    top: 24px;
+    top: 14px;
     margin-left: -10px;
     border: 1px solid #b9bfff;
 }
@@ -330,22 +433,46 @@ a {
 }
 
 .project_time {
-    font-size: 14px;
+    font-size: 16px;
+    margin-bottom: 12px;
 }
 
-.skill_container {
+.skills .skill_container {
     margin: 15px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.skills .more_skills {
+    display: flex;
+    padding: 12px 20px 10px 20px;
+    align-items: center;
+}
+
+.skills .more_skills span {
+    font-size: 16px;
+    color: #737EFF;
+}
+
+.skills .more_skills div {
+    background-color: #fff;
+	padding: 6px 12px;
+	border-radius: 100px;
+	font-size: 13px;
+	color: #6471FF;
+	margin-left: 8px;
+	font-weight: 700;
 }
 
 .skill_title {
-    float: left;
-    font-size: 16px;
+    font-size: 15px;
     color: #6471FF;
     font-family: "Muli", sans-serif;
+    font-weight: 700;
 }
 
 .skill_power {
-    float: right;
 }
 
 .skill_power_item {
@@ -428,7 +555,7 @@ a {
 }
 
 .info_container .profile_info ul li {
-    color: #595C6E;
+    color: #606375;
     border-radius: 20px;
     padding: 8px 7px 7px 12px;
     height: 22px;
@@ -450,7 +577,7 @@ a {
 }
 
 .info_container .profile_about {
-    font-family: "B Roya";
+    font-family: "B Roya", "Muli", Tahoma;
     font-size: 16px;
     text-align: justify;
     direction: rtl;
