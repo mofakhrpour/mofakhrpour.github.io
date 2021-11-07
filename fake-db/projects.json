@@ -51,7 +51,10 @@
             "Server side is microservice and service based",
             "Mapper, EF, UoW logic have been implemented"
         ],
-        "images": [],
+        "images": [
+            "Kavan-1.png",
+            "Kavan-2.png"
+        ],
         "videos": ["Kavan.mp4"]
     },
     {
@@ -83,7 +86,11 @@
             "Caracal-7.jpg",
             "Caracal-8.jpg",
             "Caracal-9.jpg",
-            "Caracal-10.jpg"
+            "Caracal-10.jpg",
+            "Caracal-11.jpg",
+            "Caracal-12.jpg",
+            "Caracal-13.jpg",
+            "Caracal-14.jpg"
         ]
     },
     {
