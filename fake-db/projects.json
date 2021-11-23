@@ -14,12 +14,12 @@
         "items": [
             "Written in Kotlin and C",
             "Use C language for algorithm and encryption side",
-            "Unbreakable encryption algorithm",
+            "User dependent encryption algorithm",
             "Consider all security issues",
             "Implement protection side with C language",
-            "Fingerprint entry with security",
+            "Fingerprint entry",
             "Offline token generation",
-            "Sample and User Friendly UI"
+            "Simple and User Friendly UI"
         ],
         "images": [
             "Maskan-1.jpg",
@@ -44,7 +44,7 @@
             "Written in Asp.NET Core and Angular",
             "Based on material design system",
             "Angular reactive programming",
-            "All pages, UI and UX Designed based on design system",
+            "All pages follow same design system",
             "Designing Adobe XD prototype before angular implements",
             "All components are designed to fit the design system",
             "Server side is based on IoC design pattern and Clean architecture",
