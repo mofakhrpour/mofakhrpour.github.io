@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.7fa0108e.chunk.css",
-    "main.js": "/static/js/main.26711eb3.chunk.js",
-    "main.js.map": "/static/js/main.26711eb3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.edcf6a5c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.edcf6a5c.js.map",
+    "main.js": "/static/js/main.edc5b353.chunk.js",
+    "main.js.map": "/static/js/main.edc5b353.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.db60da4f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.db60da4f.js.map",
     "static/css/2.42020565.chunk.css": "/static/css/2.42020565.chunk.css",
-    "static/js/2.d008ef81.chunk.js": "/static/js/2.d008ef81.chunk.js",
-    "static/js/2.d008ef81.chunk.js.map": "/static/js/2.d008ef81.chunk.js.map",
+    "static/js/2.d95e582d.chunk.js": "/static/js/2.d95e582d.chunk.js",
+    "static/js/2.d95e582d.chunk.js.map": "/static/js/2.d95e582d.chunk.js.map",
     "static/js/3.e490b0be.chunk.js": "/static/js/3.e490b0be.chunk.js",
     "static/js/3.e490b0be.chunk.js.map": "/static/js/3.e490b0be.chunk.js.map",
-    "static/js/4.cd28ab63.chunk.js": "/static/js/4.cd28ab63.chunk.js",
-    "static/js/4.cd28ab63.chunk.js.map": "/static/js/4.cd28ab63.chunk.js.map",
+    "static/js/4.825c4976.chunk.js": "/static/js/4.825c4976.chunk.js",
+    "static/js/4.825c4976.chunk.js.map": "/static/js/4.825c4976.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.42020565.chunk.css.map": "/static/css/2.42020565.chunk.css.map",
     "static/css/main.7fa0108e.chunk.css.map": "/static/css/main.7fa0108e.chunk.css.map",
@@ -44,6 +44,7 @@
     "static/media/Caracal-7.jpg": "/static/media/Caracal-7.f33b015d.jpg",
     "static/media/Caracal-8.jpg": "/static/media/Caracal-8.039baafc.jpg",
     "static/media/Caracal-9.jpg": "/static/media/Caracal-9.213e6019.jpg",
+    "static/media/Delino.jpg": "/static/media/Delino.411bcf25.jpg",
     "static/media/Element Download Manager-1.png": "/static/media/Element Download Manager-1.2a70bfc8.png",
     "static/media/Elementgram-1.png": "/static/media/Elementgram-1.bf023910.png",
     "static/media/FPS Online Game-1.png": "/static/media/FPS Online Game-1.9f1526c5.png",
@@ -105,14 +106,15 @@
     "static/media/Programming-android-2.png": "/static/media/Programming-android-2.72848055.png",
     "static/media/Programming-android-3.png": "/static/media/Programming-android-3.77184dff.png",
     "static/media/SmartChi-VR-1.png": "/static/media/SmartChi-VR-1.e8fe3606.png",
+    "static/media/TelegramCrowler.jpg": "/static/media/TelegramCrowler.b919ed35.jpg",
     "static/media/University Of Tehran BRG-1.png": "/static/media/University Of Tehran BRG-1.675b3306.png",
     "static/media/index.css": "/static/media/bg.71d343ae.jpg",
     "static/media/profile.6e0fd385.jpg": "/static/media/profile.6e0fd385.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.edcf6a5c.js",
+    "static/js/runtime-main.db60da4f.js",
     "static/js/3.e490b0be.chunk.js",
     "static/css/main.7fa0108e.chunk.css",
-    "static/js/main.26711eb3.chunk.js"
+    "static/js/main.edc5b353.chunk.js"
   ]
 }

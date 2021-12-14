@@ -1,5 +1,29 @@
 [
     {
+        "title": "Telegram Crowler (WebAPI)",
+        "startTime": "5/2021",
+        "companies": [
+            "Freelance"
+        ],
+        "technologies": [
+            "nodejs",
+            "mongodb"
+        ],
+        "items": [
+            "Written in NodeJs",
+            "Based on Telegram API",
+            "Can clone entire Channel or Group",
+            "clone and update sequentially",
+            "Seprate media crowler from message crowler (modular)",
+            "Media crowlers and scale up (node-worker) to maximum download speed",
+            "Update edited or deleted messages",
+            "Crowling groups and show realtime every new message"
+        ],
+        "images": [
+            "TelegramCrowler.jpg"
+        ]
+    },
+    {
         "title": "Android App \"Maskan OTP\" (رمز نما) (تولید رمز دوم پویا بانک مسکن)",
         "startTime": "10/2019",
         "companies": [
@@ -292,7 +316,7 @@
             "Improve UI, UX"
         ],
         "images": [
-            "Mobinnet VOIP-1.jpg"
+            "Delino.jpg"
         ]
     },
     {
@@ -312,13 +336,13 @@
             "Right to Left support for android 3 and upper"
         ],
         "images": [
-            "Mobinnet Speed Test-1.png"
+            "Mobinnet VOIP-1.jpg"
         ]
     },
     {
         "title": "Android App \"Mobinnet Speed Test\"",
         "startTime": "2/2017",
-        "companies": [ "" ],
+        "companies": [ "Dadekavan", "MTN Irancell" ],
         "technologies": [
             "android",
             "vector"
@@ -331,17 +355,19 @@
             "Works with phablet and tablets",
             "Optimized for android 3 and upper"
         ],
-        "images": []
+        "images": [
+            "Mobinnet Speed Test-1.png"
+        ]
     },
     {
-        "title": "Advanced Node.js Upload Server for \"Mobinnet Speed Test\" Android App",
+        "title": "Advanced nodejs Upload Server for \"Mobinnet Speed Test\" Android App",
         "startTime": "2/2017",
         "companies": [ "Dadekavan", "MTN Irancell" ],
         "technologies": [
-            "node.js"
+            "nodejs"
         ],
         "items": [
-            "Written in Node.js",
+            "Written in nodejs",
             "Multi upload connection support",
             "Get user ISP information (location, ...)",
             "Calculate upload speed of multi files in one request",
@@ -355,12 +381,12 @@
         "startTime": "12/2016",
         "companies": [ "PlusMaster" ],
         "technologies": [
-            "node.js",
+            "nodejs",
             "socket.io",
             "mongodb"
         ],
         "items": [
-            "Written in Node.js, Socket.io and MongoDB",
+            "Written in nodejs, Socket.io and MongoDB",
             "Real time report user state",
             "Admin room to control users",
             "Admins all are sync with each others",
