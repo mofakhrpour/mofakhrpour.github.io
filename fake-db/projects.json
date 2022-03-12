@@ -38,12 +38,12 @@
         "items": [
             "Written in Kotlin and C",
             "Use C language for algorithm and encryption side",
-            "User dependent encryption algorithm",
+            "Unbreakable encryption algorithm",
             "Consider all security issues",
             "Implement protection side with C language",
-            "Fingerprint entry",
+            "Fingerprint entry with security",
             "Offline token generation",
-            "Simple and User Friendly UI"
+            "Sample and User Friendly UI"
         ],
         "images": [
             "Maskan-1.jpg",
@@ -68,7 +68,7 @@
             "Written in Asp.NET Core and Angular",
             "Based on material design system",
             "Angular reactive programming",
-            "All pages follow same design system",
+            "All pages, UI and UX Designed based on design system",
             "Designing Adobe XD prototype before angular implements",
             "All components are designed to fit the design system",
             "Server side is based on IoC design pattern and Clean architecture",
@@ -93,11 +93,10 @@
         ],
         "items": [
             "Written in Java and Kotlin",
-            "Based on MVVM Architecture",
+            "Based on MVVM Architecture and DataBinding",
             "Fully Designed by Adobe XD and other prototyping tools",
             "Design animations and vectors",
             "Implementation animations by vectors and canvas",
-            "Advanced MVVM Data Binding",
             "Works with phablet and tablets and landscape orientation"
         ],
         "images": [
@@ -128,14 +127,13 @@
         "items": [
             "Windows CE based Multimedia System",
             "Add custom multimedia loading screen",
-            "Add folder list and folder navigation ability",
-            "Add the ability to remember the latest playing song and folder",
+            "Add custom multimedia loading screen, folder list and browse navigation ability",
             "Reduce the time of startup and loading multimedia player",
             "Add the ability to show and change the song time by progress bar",
-            "Add the ability to remember the latest playing song time and more mirror changegs and improvments",
+            "Add the ability to remember the latest playing song time and more mirror changes and improvements",
             "Improve appearance and user experience",
             "Clean up system registry",
-            "Reduce system boot time"
+            "Reduce system start time"
         ],
         "images": [
             "Karmani-BYD-1.jpg",
@@ -571,7 +569,7 @@
         "items": [
             "Written in C# WPF",
             "Fully Redesign window frames",
-            "Based on MVVM Architecture",
+            "Based on MVVM Architecture and DataBinding",
             "Multi-Connection downloading up to 32 connection per download",
             "Multi-Part downloading system",
             "Advanced video downloading",
