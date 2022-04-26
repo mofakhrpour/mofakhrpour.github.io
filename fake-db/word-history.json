@@ -1,37 +1,94 @@
 [
     {
-        "title": "Software Consultant",
+        "title": "Software Consultant and DevOps Manager",
         "company": "Nik Gostaran Arsh Diba",
         "startTime": "January 2020",
         "endTime": "Present",
-        "description": "مشاوره و تحلیل در جهت پیاده سازی بهتر زیرساخت های نرم افزاری با توجه به پلن های کسب و کار.\nزیرساخت توسعه، استقرار و مانیتور نرم افزار، در جهت توسعه پروژه درقالب میکروسرویس.\nآماده سازی و تحلیل معماری سیستم جهت توسعه به صورت میکروسرویس."
+        "projects": [
+            {
+                "title": "Nikdiba Sales Platform",
+                "dec": "Spring Boot Microservice",
+                "role": "consultant and architecture"
+            },
+            {
+                "title": "DevOps Infrastructure",
+                "role": "devops manager"
+            }
+        ],
+        "description": "Software development, deployment and monitoring infrastructure for spring boot projects in the form of microservices and monolithic.\nPreparation and analysis of system architecture for development as a microservice."
     },
     {
-        "title": "UI UX Manager",
+        "title": "UI UX Manager and Development Consultant",
         "company": "Hpen StartUp (Tebland)",
         "startTime": "October 2019",
         "endTime": "February 2020",
-        "description": "تحلیل و ترسیم تجربه کاربری در قالب نقشه راه، طراحی ظاهر و انیمیشن ها، و پیاده سازی در قالب اپلیکیشن"
+        "projects": [
+            {
+                "title": "Hpen android application",
+                "role": "ui ux manager, development consultant"
+            }
+        ],
+        "description": "Analyze and draw user experience in the form of a roadmap, design appearance and animations.\nConsultant in android project architecture (mvvm) and implementing smooth ui animations."
     },
     {
         "title": "Android Developer",
         "company": "Delino",
         "startTime": "April 2017",
         "endTime": "March 2018",
-        "description": "جهت بهبود کارایی و رفع باگ های موجود، و همچنین پیاده سازی بخش های جدید اپلیکیشن دلینو، در این مدت با هم همکاری داشتیم. "
+        "projects": [
+            {
+                "title": "Delino android application",
+                "role": "android developer"
+            }
+        ],
+        "description": "We worked together to improve performance and fix existing bugs, as well as implement new parts of the Delino application."
     },
     {
         "title": "Software Developer",
         "company": "Dadekavan",
         "startTime": "January 2017",
         "endTime": "Present",
-        "description": "در این چند سال پروژه های زیادی انجام شده است.\nاز جمله پیاده سازی سیستم مدیریت کسب و کار توسط Angular و NET Core. ، نرم افزار ویندوزی طراحی مش های دو بعدی، اپلیکیشن اندروید تست سرعت اینترنت برای ایرانسل، ارتقا سیستم مولتی مدیا خوردو BYD S6 کارمانیا و اپلیکیشن های مختلف دیگر برای کسب کار ها و استارت آپ ها."
+        "projects": [
+            {
+                "title": "Business management system (BMS)",
+                "dec": "Based on Angular and .Net Core",
+                "role": "angular developer, .net core developer"
+            },
+            {
+                "title": "VOIP windows application",
+                "dec": "Integrated with CMS",
+                "role": "ui designer, c# wpf developer"
+            },
+            {
+                "title": "Caracal android application",
+                "dec": "Car Tracking System",
+                "role": "ui designer, android developer"
+            }
+        ],
+        "description": "Many projects have been done in these few years.\nIncluding implementation of business management system by Angular and .NET Core, two-dimensional meshe designer windows application, internet speed testing android application for Irancell, upgrade BYD S6 Karmania car multimedia system and various other applications for businesses and startups."
     },
     {
         "title": "Android and C# Developer",
         "company": "Zarin Fekran Farhoosh",
         "startTime": "June 2016",
         "endTime": "November 2016",
-        "description": "طراحی قفل درون برنامه ای برای اپلیکیشن های اندروید و نرم افزار ویندوزی تولید پک های آموزشی جهت ارائه بسته های آموزشی به همراه کد فعال سازی. و همچنین پیاده سازی پنل های مدیریت تحت وب، برای کنترل بر عملکرد نرم افزار ها"
+        "projects": [
+            {
+                "title": "In-App android payment",
+                "dec": "With software lock",
+                "role": "android developer"
+            },
+            {
+                "title": "Video package builder for windows",
+                "dec": "With software lock",
+                "role": "c# wpf developer"
+            },
+            {
+                "title": "Admin control panel",
+                "dec": "Web based",
+                "role": "php developer"
+            }
+        ],
+        "description": "Software lock and In-app payment for android applications and windows package builder for tutorial video packages with software lock. As well as implementing web-based admin panels to control actiovation codes and activated devices."
     }
 ]

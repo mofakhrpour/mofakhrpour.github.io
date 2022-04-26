@@ -1,6 +1,7 @@
 [
     {
-        "title": "Telegram Crowler (WebAPI)",
+        "title": "Telegram Crawler (WebAPI)",
+        "dec": "crawl, store, provide data with web api",
         "startTime": "5/2021",
         "companies": [
             "Freelance"
@@ -24,7 +25,8 @@
         ]
     },
     {
-        "title": "Android App \"Maskan OTP\" (رمز نما) (تولید رمز دوم پویا بانک مسکن)",
+        "title": "Android OTP App \"Maskan Bank\" (رمز نما) (تولید رمز دوم پویا بانک مسکن)",
+        "dec": "one time password generator",
         "startTime": "10/2019",
         "companies": [
             "Saba Pardazesh",
@@ -57,6 +59,7 @@
     },
     {
         "title": "Kavan BMS",
+        "dec": "business management system",
         "startTime": "4/2019",
         "companies": [ "Dadekavan" ],
         "technologies": [
@@ -83,6 +86,7 @@
     },
     {
         "title": "Android App \"Caracal\"",
+        "dec": "car tracking system",
         "startTime": "2/2019",
         "companies": [ "Dadekavan" ],
         "technologies": [
@@ -118,6 +122,7 @@
     },
     {
         "title": "Upgrade Karmania BYE S6 Multimedia System",
+        "dec": "car multimedia system",
         "startTime": "11/2018",
         "companies": [ "Dadekavan", "Karmania" ],
         "technologies": [
@@ -143,6 +148,7 @@
     },
     {
         "title": "Windows \"Admin Manager\" Program",
+        "dec": "windows administrator permission controller",
         "startTime": "2/2018",
         "companies": [ "Dadekavan" ],
         "technologies": [
@@ -170,6 +176,7 @@
     },
     {
         "title": "Android App \"Kaven\"",
+        "dec": "car in place repaire service",
         "startTime": "1/2018",
         "companies": [ "Dadekavan" ],
         "technologies": [
@@ -199,6 +206,7 @@
     },
     {
         "title": "Android App \"PakhshCo\"",
+        "dec": "online wholesale shop",
         "startTime": "10/2017",
         "companies": [ "Dadekavan" ],
         "technologies": [
@@ -227,6 +235,7 @@
     },
     {
         "title": "Windows \"Advanced File Protection\" Program",
+        "dec": "file encryption and decryption",
         "startTime": "9/2017",
         "companies": [ "Dadekavan" ],
         "technologies": [
@@ -252,6 +261,7 @@
     },
     {
         "title": "Android App \"Karmania\"",
+        "dec": "karmania customer care",
         "startTime": "8/2017",
         "companies": [ "Dadekavan", " Karmania" ],
         "technologies": [
@@ -275,7 +285,8 @@
         ]
     },
     {
-        "title": "Advanced Mesh Generation and Analysis Software",
+        "title": "Advanced Mesh Design and Analysis Software",
+        "dec": "two-dimensional mesh design",
         "startTime": "6/2017",
         "companies": [ "Dadekavan" ],
         "technologies": [
@@ -301,6 +312,7 @@
     },
     {
         "title": "Improve Android App \"Delino\"",
+        "dec": "online food order",
         "startTime": "5/2017",
         "companies": [ "Delino" ],
         "technologies": [
@@ -319,6 +331,7 @@
     },
     {
         "title": "Redesign \"Linphone VOIP\" Android App (\"مبین نت همراه\")",
+        "dec": "voip application",
         "startTime": "3/2017",
         "companies": [ "Dadekavan", "MTN Irancell" ],
         "technologies": [
@@ -339,6 +352,7 @@
     },
     {
         "title": "Android App \"Mobinnet Speed Test\"",
+        "dec": "internet speed test",
         "startTime": "2/2017",
         "companies": [ "Dadekavan", "MTN Irancell" ],
         "technologies": [
@@ -359,6 +373,7 @@
     },
     {
         "title": "Advanced nodejs Upload Server for \"Mobinnet Speed Test\" Android App",
+        "dec": "upload server",
         "startTime": "2/2017",
         "companies": [ "Dadekavan", "MTN Irancell" ],
         "technologies": [
@@ -376,6 +391,7 @@
     },
     {
         "title": "PlusMW3 Anti Cheat Web Based Control Panel",
+        "dec": "windows anti cheat",
         "startTime": "12/2016",
         "companies": [ "PlusMaster" ],
         "technologies": [
@@ -395,28 +411,8 @@
         "images": []
     },
     {
-        "title": "Advanced Autorun for Educational Video Products Web Base Control Panel",
-        "startTime": "10/2016",
-        "companies": [ "Zarin Fekran Farhoosh" ],
-        "technologies": [
-            "php",
-            "mysql"
-        ],
-        "items": [
-            "Written in PHP and MySQL",
-            "Fully AJAX",
-            "Add unlimited unique activation code",
-            "Manage activation codes",
-            "All information about users and his codes",
-            "Payment transactions list",
-            "Backup and restore database"
-        ],
-        "images": [
-            "Autorun WebPanel-1.png"
-        ]
-    },
-    {
         "title": "Advanced Autorun for Educational Video Products",
+        "dec": "package builder",
         "startTime": "10/2016",
         "companies": [ "Zarin Fekran Farhoosh" ],
         "technologies": [
@@ -438,7 +434,49 @@
         ]
     },
     {
-        "title": "Personal Android In-App Payment Web Based Control Panel",
+        "title": "Web Control Panel for Manage Autoruns",
+        "dec": "web panel for manage activation codes and users",
+        "startTime": "10/2016",
+        "companies": [ "Zarin Fekran Farhoosh" ],
+        "technologies": [
+            "php",
+            "mysql"
+        ],
+        "items": [
+            "Written in PHP and MySQL",
+            "Fully AJAX",
+            "Add unlimited unique activation code",
+            "Manage activation codes",
+            "All information about users and his codes",
+            "Payment transactions list",
+            "Backup and restore database"
+        ],
+        "images": [
+            "Autorun WebPanel-1.png"
+        ]
+    },
+    {
+        "title": "Personal Android In-App Payment",
+        "dec": "in-app payment with software lock",
+        "startTime": "9/2016",
+        "companies": [ "Zarin Fekran Farhoosh" ],
+        "technologies": [
+            "android",
+            "security"
+        ],
+        "items": [
+            "Written in Java",
+            "Personal payment gateway",
+            "Limit time (handled from server side) to use app free",
+            "Local and server side Security lock",
+            "Force update application (handle from server side)",
+            "Web based control panel"
+        ],
+        "images": []
+    },
+    {
+        "title": "Web Control Panel for Android In-App Payments",
+        "dec": "web panel for manage payments",
         "startTime": "9/2016",
         "companies": [ "Zarin Fekran Farhoosh" ],
         "technologies": [
@@ -459,48 +497,8 @@
         "images": ["Android Payment WebPanel-1.png"]
     },
     {
-        "title": "Personal Android In-App Payment",
-        "startTime": "9/2016",
-        "companies": [ "Zarin Fekran Farhoosh" ],
-        "technologies": [
-            "android",
-            "security"
-        ],
-        "items": [
-            "Written in Java",
-            "Personal payment gateway",
-            "Limit time (handled from server side) to use app free",
-            "Local and server side Security lock",
-            "Force update application (handle from server side)",
-            "Web based control panel"
-        ],
-        "images": []
-    },
-    {
-        "title": "Cross Platform Online FPS Game",
-        "startTime": "6/2016",
-        "companies": [ "Freelance" ],
-        "technologies": [
-            "c#",
-            "unity3d",
-            "unet"
-        ],
-        "items": [
-            "Written in C# and power by Unity3D game engine",
-            "Online game power by UNET framework",
-            "Advanced unity particle system",
-            "Run on Windows, Android and Linux",
-            "Create local network between all type of devices"
-        ],
-        "images": [
-            "FPS Online Game-1.png",
-            "FPS Online Game-2.png",
-            "FPS Online Game-3.png",
-            "FPS Online Game-4.png"
-        ]
-    },
-    {
         "title": "Website University Of Tehran BRG Group",
+        "dec": "university website",
         "startTime": "5/2016",
         "companies": [ "University of Tehran" ],
         "technologies": [
@@ -520,6 +518,7 @@
     },
     {
         "title": "Android App \"صفر تا صد برنامه نویسی\"",
+        "dec": "educational android app",
         "startTime": "2/2016",
         "companies": [ "Freelance" ],
         "technologies": [
@@ -539,6 +538,7 @@
     },
     {
         "title": "MyEditor",
+        "dec": "windows text file editor with code highlight support",
         "startTime": "4/2015",
         "companies": [ "Freelance" ],
         "technologies": [
@@ -559,6 +559,7 @@
     },
     {
         "title": "Element Download Manager",
+        "dec": "windows download manager with multi connection support",
         "startTime": "2/2015",
         "companies": [ "Freelance" ],
         "technologies": [
@@ -581,7 +582,8 @@
         ]
     },
     {
-        "title": "Elementgram (Instagram windows client)",
+        "title": "Elementgram",
+        "dec": "windows instagram client",
         "startTime": "3/2014",
         "companies": [ "Freelance" ],
         "technologies": [
