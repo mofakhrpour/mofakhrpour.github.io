@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.7fa0108e.chunk.css",
-    "main.js": "/static/js/main.f3683364.chunk.js",
-    "main.js.map": "/static/js/main.f3683364.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.966ca356.js",
-    "runtime-main.js.map": "/static/js/runtime-main.966ca356.js.map",
-    "static/css/2.76ab61b4.chunk.css": "/static/css/2.76ab61b4.chunk.css",
-    "static/js/2.ad1b3276.chunk.js": "/static/js/2.ad1b3276.chunk.js",
-    "static/js/2.ad1b3276.chunk.js.map": "/static/js/2.ad1b3276.chunk.js.map",
-    "static/js/3.e490b0be.chunk.js": "/static/js/3.e490b0be.chunk.js",
-    "static/js/3.e490b0be.chunk.js.map": "/static/js/3.e490b0be.chunk.js.map",
+    "main.js": "/static/js/main.fc9f3075.chunk.js",
+    "main.js.map": "/static/js/main.fc9f3075.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.91ce81cd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.91ce81cd.js.map",
+    "static/css/2.484301a1.chunk.css": "/static/css/2.484301a1.chunk.css",
+    "static/js/2.97e7c4d4.chunk.js": "/static/js/2.97e7c4d4.chunk.js",
+    "static/js/2.97e7c4d4.chunk.js.map": "/static/js/2.97e7c4d4.chunk.js.map",
+    "static/js/3.d6ae94b2.chunk.js": "/static/js/3.d6ae94b2.chunk.js",
+    "static/js/3.d6ae94b2.chunk.js.map": "/static/js/3.d6ae94b2.chunk.js.map",
     "static/js/4.825c4976.chunk.js": "/static/js/4.825c4976.chunk.js",
     "static/js/4.825c4976.chunk.js.map": "/static/js/4.825c4976.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/2.76ab61b4.chunk.css.map": "/static/css/2.76ab61b4.chunk.css.map",
+    "static/css/2.484301a1.chunk.css.map": "/static/css/2.484301a1.chunk.css.map",
     "static/css/main.7fa0108e.chunk.css.map": "/static/css/main.7fa0108e.chunk.css.map",
-    "static/js/3.e490b0be.chunk.js.LICENSE.txt": "/static/js/3.e490b0be.chunk.js.LICENSE.txt",
+    "static/js/3.d6ae94b2.chunk.js.LICENSE.txt": "/static/js/3.d6ae94b2.chunk.js.LICENSE.txt",
     "static/media/2DMeshC Video.mp4": "/static/media/2DMeshC Video.028c3b9a.mp4",
     "static/media/AdminManager-1.png": "/static/media/AdminManager-1.1b739de6.png",
     "static/media/AdminManager-2.png": "/static/media/AdminManager-2.f9853fc1.png",
@@ -109,12 +109,12 @@
     "static/media/TelegramCrowler.jpg": "/static/media/TelegramCrowler.b919ed35.jpg",
     "static/media/University Of Tehran BRG-1.png": "/static/media/University Of Tehran BRG-1.675b3306.png",
     "static/media/index.css": "/static/media/bg.71d343ae.jpg",
-    "static/media/profile.6e0fd385.jpg": "/static/media/profile.6e0fd385.jpg"
+    "static/media/profile.2597b5a0.jpg": "/static/media/profile.2597b5a0.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.966ca356.js",
-    "static/js/3.e490b0be.chunk.js",
+    "static/js/runtime-main.91ce81cd.js",
+    "static/js/3.d6ae94b2.chunk.js",
     "static/css/main.7fa0108e.chunk.css",
-    "static/js/main.f3683364.chunk.js"
+    "static/js/main.fc9f3075.chunk.js"
   ]
 }

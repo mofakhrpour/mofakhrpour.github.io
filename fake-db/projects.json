@@ -1,6 +1,7 @@
 [
     {
         "title": "Telegram Crawler (WebAPI)",
+        "slug": "telegram_crawler",
         "dec": "crawl, store, provide data with web api",
         "startTime": "5/2021",
         "companies": [
@@ -26,6 +27,7 @@
     },
     {
         "title": "Android OTP App \"Maskan Bank\" (رمز نما) (تولید رمز دوم پویا بانک مسکن)",
+        "slug": "android_opt_maskan_bank",
         "dec": "one time password generator",
         "startTime": "10/2019",
         "companies": [
@@ -59,6 +61,7 @@
     },
     {
         "title": "Kavan BMS",
+        "slug": "kavan_bms",
         "dec": "business management system",
         "startTime": "4/2019",
         "companies": [ "Dadekavan" ],
@@ -86,6 +89,7 @@
     },
     {
         "title": "Android App \"Caracal\"",
+        "slug": "android_caracal",
         "dec": "car tracking system",
         "startTime": "2/2019",
         "companies": [ "Dadekavan" ],
@@ -121,7 +125,8 @@
         ]
     },
     {
-        "title": "Upgrade Karmania BYE S6 Multimedia System",
+        "title": "Upgrade Karmania BYD S6 Multimedia System",
+        "slug": "karmaniya_byd",
         "dec": "car multimedia system",
         "startTime": "11/2018",
         "companies": [ "Dadekavan", "Karmania" ],
@@ -148,6 +153,7 @@
     },
     {
         "title": "Windows \"Admin Manager\" Program",
+        "slug": "windows_admin_manager",
         "dec": "windows administrator permission controller",
         "startTime": "2/2018",
         "companies": [ "Dadekavan" ],
@@ -176,6 +182,7 @@
     },
     {
         "title": "Android App \"Kaven\"",
+        "slug": "android_app_kavan",
         "dec": "car in place repaire service",
         "startTime": "1/2018",
         "companies": [ "Dadekavan" ],
@@ -206,6 +213,7 @@
     },
     {
         "title": "Android App \"PakhshCo\"",
+        "slug": "android_app_pakhshco",
         "dec": "online wholesale shop",
         "startTime": "10/2017",
         "companies": [ "Dadekavan" ],
@@ -235,6 +243,7 @@
     },
     {
         "title": "Windows \"Advanced File Protection\" Program",
+        "slug": "windows_advance_file_protection",
         "dec": "file encryption and decryption",
         "startTime": "9/2017",
         "companies": [ "Dadekavan" ],
@@ -261,6 +270,7 @@
     },
     {
         "title": "Android App \"Karmania\"",
+        "slug": "android_app_karmania",
         "dec": "karmania customer care",
         "startTime": "8/2017",
         "companies": [ "Dadekavan", " Karmania" ],
@@ -286,6 +296,7 @@
     },
     {
         "title": "Advanced Mesh Design and Analysis Software",
+        "slug": "advance_mesh_design_and_analysis_software",
         "dec": "two-dimensional mesh design",
         "startTime": "6/2017",
         "companies": [ "Dadekavan" ],
@@ -312,6 +323,7 @@
     },
     {
         "title": "Improve Android App \"Delino\"",
+        "slug": "android_app_delino",
         "dec": "online food order",
         "startTime": "5/2017",
         "companies": [ "Delino" ],
@@ -331,6 +343,7 @@
     },
     {
         "title": "Redesign \"Linphone VOIP\" Android App (\"مبین نت همراه\")",
+        "slug": "linphone_voip",
         "dec": "voip application",
         "startTime": "3/2017",
         "companies": [ "Dadekavan", "MTN Irancell" ],
@@ -352,6 +365,7 @@
     },
     {
         "title": "Android App \"Mobinnet Speed Test\"",
+        "slug": "android_app_mobinnet_speed_test",
         "dec": "internet speed test",
         "startTime": "2/2017",
         "companies": [ "Dadekavan", "MTN Irancell" ],
@@ -373,6 +387,7 @@
     },
     {
         "title": "Advanced nodejs Upload Server for \"Mobinnet Speed Test\" Android App",
+        "slug": "nodejs_upload_server",
         "dec": "upload server",
         "startTime": "2/2017",
         "companies": [ "Dadekavan", "MTN Irancell" ],
@@ -391,6 +406,7 @@
     },
     {
         "title": "PlusMW3 Anti Cheat Web Based Control Panel",
+        "slug": "plusmw3_anti_cheat",
         "dec": "windows anti cheat",
         "startTime": "12/2016",
         "companies": [ "PlusMaster" ],
@@ -412,6 +428,7 @@
     },
     {
         "title": "Advanced Autorun for Educational Video Products",
+        "slug": "autorun_video",
         "dec": "package builder",
         "startTime": "10/2016",
         "companies": [ "Zarin Fekran Farhoosh" ],
@@ -435,6 +452,7 @@
     },
     {
         "title": "Web Control Panel for Manage Autoruns",
+        "slug": "autorun_video_panel",
         "dec": "web panel for manage activation codes and users",
         "startTime": "10/2016",
         "companies": [ "Zarin Fekran Farhoosh" ],
@@ -457,6 +475,7 @@
     },
     {
         "title": "Personal Android In-App Payment",
+        "slug": "android_in_app_pay",
         "dec": "in-app payment with software lock",
         "startTime": "9/2016",
         "companies": [ "Zarin Fekran Farhoosh" ],
@@ -476,6 +495,7 @@
     },
     {
         "title": "Web Control Panel for Android In-App Payments",
+        "slug": "android_in_app_pay_panel",
         "dec": "web panel for manage payments",
         "startTime": "9/2016",
         "companies": [ "Zarin Fekran Farhoosh" ],
@@ -498,6 +518,7 @@
     },
     {
         "title": "Website University Of Tehran BRG Group",
+        "slug": "university_of_tehran_website",
         "dec": "university website",
         "startTime": "5/2016",
         "companies": [ "University of Tehran" ],
@@ -518,6 +539,7 @@
     },
     {
         "title": "Android App \"صفر تا صد برنامه نویسی\"",
+        "slug": "android_app_0_to_100",
         "dec": "educational android app",
         "startTime": "2/2016",
         "companies": [ "Freelance" ],
@@ -538,6 +560,7 @@
     },
     {
         "title": "MyEditor",
+        "slug": "myeditor",
         "dec": "windows text file editor with code highlight support",
         "startTime": "4/2015",
         "companies": [ "Freelance" ],
@@ -559,6 +582,7 @@
     },
     {
         "title": "Element Download Manager",
+        "slug": "element_download_manager",
         "dec": "windows download manager with multi connection support",
         "startTime": "2/2015",
         "companies": [ "Freelance" ],
@@ -583,6 +607,7 @@
     },
     {
         "title": "Elementgram",
+        "slug": "elementgram",
         "dec": "windows instagram client",
         "startTime": "3/2014",
         "companies": [ "Freelance" ],

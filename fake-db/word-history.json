@@ -1,18 +1,27 @@
 [
     {
-        "title": "Software Consultant and DevOps Manager",
+        "title": "DevOps Engineer",
         "company": "Nik Gostaran Arsh Diba",
         "startTime": "January 2020",
         "endTime": "Present",
         "projects": [
             {
+                "title": "DevOps Infrastructure",
+                "role": "devops manager"
+            }
+        ],
+        "description": "Software development, deployment and monitoring infrastructure for spring boot projects in the form of microservices and monolithic.\nPreparation and analysis of system architecture for development as a microservice."
+    },
+    {
+        "title": "Software Consultant",
+        "company": "Nik Gostaran Arsh Diba",
+        "startTime": "January 2020",
+        "endTime": "February 2022",
+        "projects": [
+            {
                 "title": "Nikdiba Sales Platform",
                 "dec": "Spring Boot Microservice",
                 "role": "consultant and architecture"
-            },
-            {
-                "title": "DevOps Infrastructure",
-                "role": "devops manager"
             }
         ],
         "description": "Software development, deployment and monitoring infrastructure for spring boot projects in the form of microservices and monolithic.\nPreparation and analysis of system architecture for development as a microservice."
@@ -38,7 +47,8 @@
         "projects": [
             {
                 "title": "Delino android application",
-                "role": "android developer"
+                "role": "android developer",
+                "slug": "android_app_delino"
             }
         ],
         "description": "We worked together to improve performance and fix existing bugs, as well as implement new parts of the Delino application."
@@ -51,6 +61,7 @@
         "projects": [
             {
                 "title": "Business management system (BMS)",
+                "slug": "kavan_bms",
                 "dec": "Based on Angular and .Net Core",
                 "role": "angular developer, .net core developer"
             },
@@ -61,6 +72,7 @@
             },
             {
                 "title": "Caracal android application",
+                "slug": "android_caracal",
                 "dec": "Car Tracking System",
                 "role": "ui designer, android developer"
             }
@@ -75,16 +87,19 @@
         "projects": [
             {
                 "title": "In-App android payment",
+                "slug": "android_in_app_pay",
                 "dec": "With software lock",
                 "role": "android developer"
             },
             {
                 "title": "Video package builder for windows",
+                "slug": "autorun_video",
                 "dec": "With software lock",
                 "role": "c# wpf developer"
             },
             {
                 "title": "Admin control panel",
+                "slug": "autorun_video_panel",
                 "dec": "Web based",
                 "role": "php developer"
             }
