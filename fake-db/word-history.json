@@ -7,13 +7,13 @@
         "projects": [
             {
                 "title": "DevOps Infrastructure",
-                "role": "devops manager"
+                "role": "devops engineer"
             }
         ],
-        "description": "Software development, deployment and monitoring infrastructure for spring boot projects in the form of microservices and monolithic.\nPreparation and analysis of system architecture for development as a microservice."
+        "description": "Deployment and monitoring infrastructure for spring boot projects in the form of microservices and monolithic."
     },
     {
-        "title": "Software Consultant",
+        "title": "Software Architecture",
         "company": "Nik Gostaran Arsh Diba",
         "startTime": "January 2020",
         "endTime": "February 2022",
@@ -24,7 +24,7 @@
                 "role": "consultant and architecture"
             }
         ],
-        "description": "Software development, deployment and monitoring infrastructure for spring boot projects in the form of microservices and monolithic.\nPreparation and analysis of system architecture for development as a microservice."
+        "description": "Preparation and analysis of system architecture for development as a microservice."
     },
     {
         "title": "UI UX Manager and Development Consultant",
