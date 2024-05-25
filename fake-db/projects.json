@@ -1,0 +1,639 @@
+[
+    {
+        "title": "Telegram Crawler (WebAPI)",
+        "slug": "telegram_crawler",
+        "dec": "crawl, store, provide data with web api",
+        "startTime": "5/2021",
+        "companies": [
+            "Freelance"
+        ],
+        "technologies": [
+            "nodejs",
+            "mongodb"
+        ],
+        "items": [
+            "Written in NodeJs",
+            "Based on Telegram API",
+            "Can clone entire Channel or Group",
+            "clone and update sequentially",
+            "Seprate media crowler from message crowler (modular)",
+            "Media crowlers and scale up (node-worker) to maximum download speed",
+            "Update edited or deleted messages",
+            "Crowling groups and show realtime every new message"
+        ],
+        "images": [
+            "TelegramCrowler.jpg"
+        ]
+    },
+    {
+        "title": "Android OTP App \"Maskan Bank\" (رمز نما) (تولید رمز دوم پویا بانک مسکن)",
+        "slug": "android_opt_maskan_bank",
+        "dec": "one time password generator",
+        "startTime": "10/2019",
+        "companies": [
+            "Saba Pardazesh",
+            "Bank Maskan"
+        ],
+        "technologies": [
+            "android",
+            "c language",
+            "protection"
+        ],
+        "items": [
+            "Written in Kotlin and C",
+            "Use C language for algorithm and encryption side",
+            "Unbreakable encryption algorithm",
+            "Consider all security issues",
+            "Implement protection side with C language",
+            "Fingerprint entry with security",
+            "Offline token generation",
+            "Sample and User Friendly UI"
+        ],
+        "images": [
+            "Maskan-1.jpg",
+            "Maskan-2.jpg",
+            "Maskan-3.jpg",
+            "Maskan-4.jpg",
+            "Maskan-5.jpg",
+            "Maskan-6.jpg",
+            "Maskan-7.jpg"
+        ]
+    },
+    {
+        "title": "Kavan BMS",
+        "slug": "kavan_bms",
+        "dec": "business management system",
+        "startTime": "4/2019",
+        "companies": [ "Dadekavan" ],
+        "technologies": [
+            "angular",
+            "asp.net core",
+            "ux ui"
+        ],
+        "items": [
+            "Written in Asp.NET Core and Angular",
+            "Based on material design system",
+            "Angular reactive programming",
+            "All pages, UI and UX Designed based on design system",
+            "Designing Adobe XD prototype before angular implements",
+            "All components are designed to fit the design system",
+            "Server side is based on IoC design pattern and Clean architecture",
+            "Server side is microservice and service based",
+            "Mapper, EF, UoW logic have been implemented"
+        ],
+        "images": [
+            "Kavan-1.png",
+            "Kavan-2.png",
+            "Kavan-3.png",
+            "Kavan-4.png",
+            "Kavan-5.png",
+            "Kavan-6.png",
+            "Kavan-7.png",
+            "Kavan-8.png",
+            "Kavan-9.png",
+            "Kavan-10.png"
+        ],
+        "videos": ["Kavan.mp4"]
+    },
+    {
+        "title": "Android App \"Caracal\"",
+        "slug": "android_caracal",
+        "dec": "car tracking system",
+        "startTime": "2/2019",
+        "companies": [ "Dadekavan" ],
+        "technologies": [
+            "android",
+            "mvvm",
+            "ui ux",
+            "animation"
+        ],
+        "items": [
+            "Written in Java and Kotlin",
+            "Based on MVVM Architecture and DataBinding",
+            "Fully Designed by Adobe XD and other prototyping tools",
+            "Design animations and vectors",
+            "Implementation animations by vectors and canvas",
+            "Works with phablet and tablets and landscape orientation"
+        ],
+        "images": [
+            "Caracal-1.jpg",
+            "Caracal-2.jpg",
+            "Caracal-3.jpg",
+            "Caracal-4.jpg",
+            "Caracal-5.jpg",
+            "Caracal-6.jpg",
+            "Caracal-7.jpg",
+            "Caracal-8.jpg",
+            "Caracal-9.jpg",
+            "Caracal-10.jpg",
+            "Caracal-11.jpg",
+            "Caracal-12.jpg",
+            "Caracal-13.jpg",
+            "Caracal-14.jpg"
+        ]
+    },
+    {
+        "title": "Upgrade Karmania BYD S6 Multimedia System",
+        "slug": "karmaniya_byd",
+        "dec": "car multimedia system",
+        "startTime": "11/2018",
+        "companies": [ "Dadekavan", "Karmania" ],
+        "technologies": [
+            "embedded system",
+            "c language"
+        ],
+        "items": [
+            "Windows CE based Multimedia System",
+            "Add custom multimedia loading screen",
+            "Add custom multimedia loading screen, folder list and browse navigation ability",
+            "Reduce the time of startup and loading multimedia player",
+            "Add the ability to show and change the song time by progress bar",
+            "Add the ability to remember the latest playing song time and more mirror changes and improvements",
+            "Improve appearance and user experience",
+            "Clean up system registry",
+            "Reduce system start time"
+        ],
+        "images": [
+            "Karmani-BYD-1.jpg",
+            "Karmani-BYD-2.jpg",
+            "Karmani-BYD-3.jpg",
+            "Karmani-BYD-4.jpg"
+        ]
+    },
+    {
+        "title": "Windows \"Admin Manager\" Program",
+        "slug": "windows_admin_manager",
+        "dec": "windows administrator permission controller",
+        "startTime": "2/2018",
+        "companies": [ "Dadekavan" ],
+        "technologies": [
+            "qt",
+            "ui",
+            "c++"
+        ],
+        "items": [
+            "Written in Qt C++",
+            "Fully Redesign window frames",
+            "Multi-Thread and ThreadSafe operations",
+            "Manage admins and assign programs to users",
+            "Pipe line communication",
+            "Run applications in different privileges by windows apis",
+            "Manage user administration tokens",
+            "Protect admin informations in operations",
+            "Handle processes owners in different accounts"
+        ],
+        "images": [
+            "AdminManager-1.png",
+            "AdminManager-2.png",
+            "AdminManager-3.png",
+            "AdminManager-4.png"
+        ]
+    },
+    {
+        "title": "Android App \"Kaven\"",
+        "slug": "android_app_kavan",
+        "dec": "car in place repaire service",
+        "startTime": "1/2018",
+        "companies": [ "Dadekavan" ],
+        "technologies": [
+            "android",
+            "ui ux",
+            "animation"
+        ],
+        "items": [
+            "Written in Java and Kotlin",
+            "UX UI Designing by Adobe XD and other prototyping tools",
+            "Design and simulation animations by ux tools",
+            "Animation managing for smooth animations",
+            "Works with phablet and tablets",
+            "Optimized for splited screen and landscape orientation"
+        ],
+        "images": [
+            "Kaven-1.jpg",
+            "Kaven-2.jpg",
+            "Kaven-3.jpg",
+            "Kaven-4.jpg",
+            "Kaven-5.jpg",
+            "Kaven-6.jpg",
+            "Kaven-7.jpg",
+            "Kaven-8.jpg",
+            "Kaven-9.jpg"
+        ]
+    },
+    {
+        "title": "Android App \"PakhshCo\"",
+        "slug": "android_app_pakhshco",
+        "dec": "online wholesale shop",
+        "startTime": "10/2017",
+        "companies": [ "Dadekavan" ],
+        "technologies": [
+            "android",
+            "ui"
+        ],
+        "items": [
+            "Written in Java",
+            "MVP Design Pattern",
+            "UI Design",
+            "In-App Advanced discount calculation",
+            "Works with phablet and tablets"
+        ],
+        "images": [
+            "PakshCo-1.jpg",
+            "PakshCo-2.jpg",
+            "PakshCo-3.jpg",
+            "PakshCo-4.jpg",
+            "PakshCo-5.jpg",
+            "PakshCo-6.jpg",
+            "PakshCo-7.jpg",
+            "PakshCo-8.jpg",
+            "PakshCo-9.jpg",
+            "PakshCo-10.jpg"
+        ]
+    },
+    {
+        "title": "Windows \"Advanced File Protection\" Program",
+        "slug": "windows_advance_file_protection",
+        "dec": "file encryption and decryption",
+        "startTime": "9/2017",
+        "companies": [ "Dadekavan" ],
+        "technologies": [
+            "qt",
+            "ui",
+            "c++"
+        ],
+        "items": [
+            "Written in Qt C++",
+            "Sample and user friendly UI",
+            "Multi-Thread and ThreadSafe operations",
+            "Advanced encryption and decryption algorithm",
+            "Encryption based on folder and file extention",
+            "Advanced search algorithm for encrypted files"
+        ],
+        "images": [
+            "AdvancesSearch-1.png",
+            "AdvancesSearch-2.png",
+            "AdvancesSearch-3.png",
+            "AdvancesSearch-4.png",
+            "AdvancesSearch-5.png"
+        ]
+    },
+    {
+        "title": "Android App \"Karmania\"",
+        "slug": "android_app_karmania",
+        "dec": "karmania customer care",
+        "startTime": "8/2017",
+        "companies": [ "Dadekavan", " Karmania" ],
+        "technologies": [
+            "android",
+            "ui"
+        ],
+        "items": [
+            "Written in Java",
+            "Wireframe and UI Design",
+            "Latest android material components",
+            "Activity transition animations"
+        ],
+        "images": [
+            "Karmania-1.jpg",
+            "Karmania-2.jpg",
+            "Karmania-3.jpg",
+            "Karmania-4.jpg",
+            "Karmania-5.jpg",
+            "Karmania-6.jpg",
+            "Karmania-7.jpg"
+        ]
+    },
+    {
+        "title": "Advanced Mesh Design and Analysis Software",
+        "slug": "advance_mesh_design_and_analysis_software",
+        "dec": "two-dimensional mesh design",
+        "startTime": "6/2017",
+        "companies": [ "Dadekavan" ],
+        "technologies": [
+            "wpf",
+            "c#"
+        ],
+        "items": [
+            "Written in C# WPF",
+            "Read and analysis standard mesh files",
+            "High performance in rendering",
+            "User Friendly UI",
+            "Easy zooming and panning",
+            "Advanced edit tools",
+            "Merge, Remove, Edit in level one (curves) and level two (points)",
+            "Create new shapes with full access to all points",
+            "Create mesh out of mesh files",
+            "Change distribution of point in curves easily"
+        ],
+        "images": [],
+        "videos": [
+            "2DMeshC Video.mp4"
+        ]
+    },
+    {
+        "title": "Improve Android App \"Delino\"",
+        "slug": "android_app_delino",
+        "dec": "online food order",
+        "startTime": "5/2017",
+        "companies": [ "Delino" ],
+        "technologies": [
+            "android",
+            "sqlite"
+        ],
+        "items": [
+            "Written in Java and SQLite",
+            "Improve application performance and add some features",
+            "Fix application bogs",
+            "Improve UI, UX"
+        ],
+        "images": [
+            "Delino.jpg"
+        ]
+    },
+    {
+        "title": "Redesign \"Linphone VOIP\" Android App (\"مبین نت همراه\")",
+        "slug": "linphone_voip",
+        "dec": "voip application",
+        "startTime": "3/2017",
+        "companies": [ "Dadekavan", "MTN Irancell" ],
+        "technologies": [
+            "android",
+            "ndk"
+        ],
+        "items": [
+            "Written in Java",
+            "C++, CMake and Assembly files compiled and converted to java source files",
+            "Application completely redesigned",
+            "Refactor most parts and add some features",
+            "Bubbles design chat conversion",
+            "Right to Left support for android 3 and upper"
+        ],
+        "images": [
+            "Mobinnet VOIP-1.jpg"
+        ]
+    },
+    {
+        "title": "Android App \"Mobinnet Speed Test\"",
+        "slug": "android_app_mobinnet_speed_test",
+        "dec": "internet speed test",
+        "startTime": "2/2017",
+        "companies": [ "Dadekavan", "MTN Irancell" ],
+        "technologies": [
+            "android",
+            "vector"
+        ],
+        "items": [
+            "Written in Java",
+            "Custom UI controllers",
+            "Advanced animations",
+            "Custom data manager with xml data format",
+            "Works with phablet and tablets",
+            "Optimized for android 3 and upper"
+        ],
+        "images": [
+            "Mobinnet Speed Test-1.png"
+        ]
+    },
+    {
+        "title": "Advanced nodejs Upload Server for \"Mobinnet Speed Test\" Android App",
+        "slug": "nodejs_upload_server",
+        "dec": "upload server",
+        "startTime": "2/2017",
+        "companies": [ "Dadekavan", "MTN Irancell" ],
+        "technologies": [
+            "nodejs"
+        ],
+        "items": [
+            "Written in nodejs",
+            "Multi upload connection support",
+            "Get user ISP information (location, ...)",
+            "Calculate upload speed of multi files in one request",
+            "Real time upload speed",
+            "API to sync with android app"
+        ],
+        "images": []
+    },
+    {
+        "title": "PlusMW3 Anti Cheat Web Based Control Panel",
+        "slug": "plusmw3_anti_cheat",
+        "dec": "windows anti cheat",
+        "startTime": "12/2016",
+        "companies": [ "PlusMaster" ],
+        "technologies": [
+            "nodejs",
+            "socket.io",
+            "mongodb"
+        ],
+        "items": [
+            "Written in nodejs, Socket.io and MongoDB",
+            "Real time report user state",
+            "Admin room to control users",
+            "Admins all are sync with each others",
+            "Sync with c# desktop applications",
+            "Save all reports in server side, reports is available in admin panels",
+            "Local Advanced report manager"
+        ],
+        "images": []
+    },
+    {
+        "title": "Advanced Autorun for Educational Video Products",
+        "slug": "autorun_video",
+        "dec": "package builder",
+        "startTime": "10/2016",
+        "companies": [ "Zarin Fekran Farhoosh" ],
+        "technologies": [
+            "mvvm",
+            "wpf"
+        ],
+        "items": [
+            "Written in C# WPF, MVVM",
+            "Personal embed VLC Player",
+            "Added custom capability to VLC Player for better UX",
+            "User Friendly UI",
+            "Advanced smooth animations",
+            "Reusable activation code",
+            "Advanced video encryption",
+            "Web based control panel"
+        ],
+        "images": [
+            "Autorun-1.png"
+        ]
+    },
+    {
+        "title": "Web Control Panel for Manage Autoruns",
+        "slug": "autorun_video_panel",
+        "dec": "web panel for manage activation codes and users",
+        "startTime": "10/2016",
+        "companies": [ "Zarin Fekran Farhoosh" ],
+        "technologies": [
+            "php",
+            "mysql"
+        ],
+        "items": [
+            "Written in PHP and MySQL",
+            "Fully AJAX",
+            "Add unlimited unique activation code",
+            "Manage activation codes",
+            "All information about users and his codes",
+            "Payment transactions list",
+            "Backup and restore database"
+        ],
+        "images": [
+            "Autorun WebPanel-1.png"
+        ]
+    },
+    {
+        "title": "Personal Android In-App Payment",
+        "slug": "android_in_app_pay",
+        "dec": "in-app payment with software lock",
+        "startTime": "9/2016",
+        "companies": [ "Zarin Fekran Farhoosh" ],
+        "technologies": [
+            "android",
+            "security"
+        ],
+        "items": [
+            "Written in Java",
+            "Personal payment gateway",
+            "Limit time (handled from server side) to use app free",
+            "Local and server side Security lock",
+            "Force update application (handle from server side)",
+            "Web based control panel"
+        ],
+        "images": []
+    },
+    {
+        "title": "Web Control Panel for Android In-App Payments",
+        "slug": "android_in_app_pay_panel",
+        "dec": "web panel for manage payments",
+        "startTime": "9/2016",
+        "companies": [ "Zarin Fekran Farhoosh" ],
+        "technologies": [
+            "mysql",
+            "php"
+        ],
+        "items": [
+            "Written in PHP and MySQL",
+            "Fully AJAX",
+            "Installed and Activated count of android apps",
+            "Handle application version and updates",
+            "Handle application id, name and prices of android apps",
+            "Trial and Succeed Payment Transactions list",
+            "Advanced upload manager to handle application apk files",
+            "Backup and Restore Database",
+            "Every developer have a personal account and can manage and view his application info"
+        ],
+        "images": ["Android Payment WebPanel-1.png"]
+    },
+    {
+        "title": "Website University Of Tehran BRG Group",
+        "slug": "university_of_tehran_website",
+        "dec": "university website",
+        "startTime": "5/2016",
+        "companies": [ "University of Tehran" ],
+        "technologies": [
+            "php",
+            "mysql",
+            "wordpress"
+        ],
+        "items": [
+            "Written in PHP and MySQL power by Wordpress",
+            "Advanced site control panel",
+            "Fully AJAX",
+            "Fully HTML5 and SEO"
+        ],
+        "images": [
+            "University Of Tehran BRG-1.png"
+        ]
+    },
+    {
+        "title": "Android App \"صفر تا صد برنامه نویسی\"",
+        "slug": "android_app_0_to_100",
+        "dec": "educational android app",
+        "startTime": "2/2016",
+        "companies": [ "Freelance" ],
+        "technologies": [
+            "sqlite",
+            "android"
+        ],
+        "items": [
+            "Written in Java and SQLite",
+            "Fully Optimized for android 2.3 and upper",
+            "Material UI with android 2.3 support"
+        ],
+        "images": [
+            "Programming-android-1.png",
+            "Programming-android-2.png",
+            "Programming-android-3.png"
+        ]
+    },
+    {
+        "title": "MyEditor",
+        "slug": "myeditor",
+        "dec": "windows text file editor with code highlight support",
+        "startTime": "4/2015",
+        "companies": [ "Freelance" ],
+        "technologies": [
+            "c#",
+            "wpf"
+        ],
+        "items": [
+            "Written in C# WPF",
+            "Multi-tab editor",
+            "Embedded In-App chromium browser",
+            "In-App HTML files preview",
+            "Advanced folder manager",
+            "Sample syntax support"
+        ],
+        "images": [
+            "MyEditor-1.png"
+        ]
+    },
+    {
+        "title": "Element Download Manager",
+        "slug": "element_download_manager",
+        "dec": "windows download manager with multi connection support",
+        "startTime": "2/2015",
+        "companies": [ "Freelance" ],
+        "technologies": [
+            "c#",
+            "wpf",
+            "mvvm"
+        ],
+        "items": [
+            "Written in C# WPF",
+            "Fully Redesign window frames",
+            "Based on MVVM Architecture and DataBinding",
+            "Multi-Connection downloading up to 32 connection per download",
+            "Multi-Part downloading system",
+            "Advanced video downloading",
+            "Extention Based",
+            "Run Third-Part Extentions on runtime"
+        ],
+        "images": [
+            "Element Download Manager-1.png"
+        ]
+    },
+    {
+        "title": "Elementgram",
+        "slug": "elementgram",
+        "dec": "windows instagram client",
+        "startTime": "3/2014",
+        "companies": [ "Freelance" ],
+        "technologies": [
+            "c#",
+            "wpf"
+        ],
+        "items": [
+            "Written in C# WPF",
+            "Fully Redesign window frames",
+            "Use non-public instagram apis",
+            "Embedded Media Player as video player",
+            "Show comments, video and images in full size",
+            "Follow pages as anonymous"
+        ],
+        "images": [
+            "Elementgram-1.png"
+        ]
+    }
+]

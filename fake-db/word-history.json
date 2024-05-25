@@ -1,0 +1,122 @@
+[
+    {
+        "title": "DevOps Engineer",
+        "company": "KalaResane Hasti Golrang",
+        "startTime": "April 2023",
+        "endTime": "Present",
+        "projects": [
+            {
+                "title": "DevOps Infrastructure",
+                "role": "devops engineer"
+            }
+        ],
+        "description": "Created CI/CD workflows with Jenkins, leveraging environment variables instead of multiple Jenkinsfiles.\nManaged virtualized environments with ESXi, vCenter, Pulumi for IaaC, and Ansible for CaaC.\nImplemented GitOps workflows with Netbox as the Single Source of Truth, utilizing Jenkins for CI, and Ansible for streamlined deployment processes.\nAutomated the configuration generation for HAProxy, BIND9, Prometheus, and various other infrastructure tools from Netbox using GitOps Flow, storing the new configs in a Git repository, and deploying them to servers.\nDeveloped an Internal Development Portal (IDP) for developers, utilizing Jenkins Forms for request submission and Jenkins Webhooks to automate pipeline triggers, enhancing efficiency in development workflows."
+    },
+    {
+        "title": "DevOps Engineer",
+        "company": "Nik Gostaran Arsh Diba",
+        "startTime": "January 2020",
+        "endTime": "Present",
+        "projects": [
+            {
+                "title": "DevOps Infrastructure",
+                "role": "devops engineer"
+            }
+        ],
+        "description": "Developed dynamic CI/CD pipelines using GitLab for diverse projects.\nAutomated VM management with ESXi, vCenter, and Terraform.\nImplemented Ansible for efficient VM configuration.\nImplemented GitOps workflows for seamless deployment.\nIntegrated Elastic APM and Sentry for comprehensive application monitoring.\nManaged logs efficiently using Elastic Stack.\nMonitored server and cluster metrics with Prometheus and Grafana.\nEnsured High Availability (HA) across Three Datacenters for production.\nConfigured Kubernetes cluster for streamlined testing and future production migration."
+    },
+    {
+        "title": "Software Consultant",
+        "company": "Nik Gostaran Arsh Diba",
+        "startTime": "January 2020",
+        "endTime": "February 2022",
+        "projects": [
+            {
+                "title": "Nikdiba Sales Platform",
+                "dec": "Spring Boot Microservice",
+                "role": "consultant and architecture"
+            }
+        ],
+        "description": "Advised the Product Owner on converting ideas into technical specifications.\nProvided development consulting to the technical team, helping them choose the best architectures based on their needs for Spring Boot projects.\nAssisted in the migration to microservices.\nDesigned Adobe XD prototypes for Android applications.\nCollaborated with the technical team to design database schemas."
+    },
+    {
+        "title": "Development Consultant",
+        "company": "Hpen StartUp (Tebland)",
+        "startTime": "October 2019",
+        "endTime": "February 2020",
+        "projects": [
+            {
+                "title": "Hpen android application",
+                "role": "ui ux manager, development consultant"
+            }
+        ],
+        "description": "Created user interface designs and animations.\nProvided consulting on Android project architecture using MVVM.\nImplemented smooth UI animations."
+    },
+    {
+        "title": "Android Developer",
+        "company": "Delino",
+        "startTime": "April 2017",
+        "endTime": "March 2018",
+        "projects": [
+            {
+                "title": "Delino android application",
+                "role": "android developer",
+                "slug": "android_app_delino"
+            }
+        ],
+        "description": "Collaborated to improve performance and fix existing bugs in the Delino application.\nImplemented new features and functionalities in the Delino application."
+    },
+    {
+        "title": "Software Developer",
+        "company": "Dadekavan",
+        "startTime": "January 2017",
+        "endTime": "February 2020",
+        "projects": [
+            {
+                "title": "Business management system (BMS)",
+                "slug": "kavan_bms",
+                "dec": "Based on Angular and .Net Core",
+                "role": "angular developer, .net core developer"
+            },
+            {
+                "title": "VOIP windows application",
+                "dec": "Integrated with CMS",
+                "role": "ui designer, c# wpf developer"
+            },
+            {
+                "title": "Caracal android application",
+                "slug": "android_caracal",
+                "dec": "Car Tracking System",
+                "role": "ui designer, android developer"
+            }
+        ],
+        "description": "Implemented a business management system using Angular and .NET Core.\nDeveloped a two-dimensional mesh designer Windows application.\nCreated an internet speed testing Android application for Irancell.\nUpgraded the BYD S6 Karmania car multimedia system.\nCompleted various other applications for businesses and startups."
+    },
+    {
+        "title": "Android and C# Developer",
+        "company": "Zarin Fekran Farhoosh",
+        "startTime": "June 2016",
+        "endTime": "November 2016",
+        "projects": [
+            {
+                "title": "In-App android payment",
+                "slug": "android_in_app_pay",
+                "dec": "With software lock",
+                "role": "android developer"
+            },
+            {
+                "title": "Video package builder for windows",
+                "slug": "autorun_video",
+                "dec": "With software lock",
+                "role": "c# wpf developer"
+            },
+            {
+                "title": "Admin control panel",
+                "slug": "autorun_video_panel",
+                "dec": "Web based",
+                "role": "php developer"
+            }
+        ],
+        "description": "Developed software locks and in-app payment systems for Android applications.\nCreated a Windows package builder for tutorial video packages, including integrated software locks.\nImplemented web-based admin panels to manage activation codes and track activated devices."
+    }
+]
